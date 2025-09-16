@@ -12,7 +12,7 @@ profile is to display my work active learning progress via the display of all of
 
 ## 🥇Certification
 - CompTIA Security+
-- Google Cybersecurity
+- Google Cybersecurity Professional
 - CompTIA Network+ (In-Progress)
 - CCNA (In-Progress)
 
