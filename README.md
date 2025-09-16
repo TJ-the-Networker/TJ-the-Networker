@@ -16,6 +16,8 @@ I gained more information, I'm leaning now more towards networking. My main goal
 - CCNA (In-Progress)
 
 ## 🧰 Skills & Tools 💻
+- Oracle Virtual Box
+- Linux - Distros: (Ubuntu and Kali Linux)
 - Packet Tracer
 - Wireshark and Nmap
 - Python Scripting (I know the basics now. Work-in-progress)
