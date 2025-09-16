@@ -6,9 +6,8 @@
 
 
 ## 🫅 About Me
-The people call me TJ. I am a United States Air Force veteran who finished a six year contract not ago. I first got interested into the tech space via my main hobby: gaming 🎮. My initial interest was more towards the offensive testing side of tech but as 
-I gained more information, I'm leaning now more towards networking. My main goal, as of now, is to become a Network Engineer. I'm actively working towards getting my CompTIA Network+ and CCNA ( Cisco Certified Network Associate) certifications. The purpose of this
-profile is to display my work active learning progress via the display of all of labs. I appreaciate any and everyone for taking the time for checking out my Hub.
+The people call me TJ. I am a United States Air Force veteran. I first got interested into the tech space via my main hobby: gaming 🎮. My initial interest was more towards the offensive testing side of tech (HACKING) but as 
+I gained more information, I'm leaning now more towards networking. My main goal, as of now, is to work towards becoming a Network Engineer. I'm actively working towards getting my CompTIA Network+ and CCNA ( Cisco Certified Network Associate) certifications. The purpose of this profile is to display my work active learning progress via the display of all of labs. I appreaciate any and everyone for taking the time for checking out my Hub.
 
 ## 🥇Certification
 - CompTIA Security+
