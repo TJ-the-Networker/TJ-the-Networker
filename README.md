@@ -13,8 +13,9 @@ I acquired more knowledge in the industry, I'm leaning now more towards networki
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA A+
+- AZ-900 (Microsoft Certified: Azure Fundamentals)
 - Google Cybersecurity Professional
-- LPI Linux Essentials (In-Progress)
+- LPI Linux Essentials
 - CCNA (In-Progress)
 
 ## 🧰 Skills & Tools 💻
